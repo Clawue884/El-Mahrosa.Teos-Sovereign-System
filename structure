@@ -1,0 +1,2 @@
+mkdir -p El-Mahrosa.Teos-Sovereign-System/{education,contracts,api,sdk,.github/workflows}
+cd El-Mahrosa.Teos-Sovereign-System
