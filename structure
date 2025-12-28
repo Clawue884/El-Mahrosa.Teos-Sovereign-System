@@ -1,2 +1,3 @@
 mkdir -p El-Mahrosa.Teos-Sovereign-System/{education,contracts,api,sdk,.github/workflows}
+education/ Civic learning UI contracts/ Solana Anchor programs api/ Backend services sdk/ Integration SDKs
 cd El-Mahrosa.Teos-Sovereign-System
