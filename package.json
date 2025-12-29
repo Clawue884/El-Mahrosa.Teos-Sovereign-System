@@ -1,3 +1,39 @@
+{
+  "name": "elmahrosa-teos-sovereign-system",
+  "version": "1.0.0",
+  "description": "Compliance-first sovereign blockchain backbone for TEOS Egypt, aligned with UN SDGs.",
+  "main": "src/sovereignCore.js",
+  "scripts": {
+    "start": "node src/sovereignCore.js",
+    "dev": "nodemon src/sovereignCore.js",
+    "test": "jest --coverage",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "sovereign",
+    "blockchain",
+    "compliance",
+    "treasury",
+    "SDG",
+    "Egypt"
+  ],
+  "author": "Ayman Seif",
+  "license": "PolyFormNC+TESL",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.2.5",
+    "supertest": "^6.3.3"
+  }
+}
+
 diff --git a/package.json b/package.json
 --- a/package.json
 +++ b/package.json
