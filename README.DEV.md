@@ -101,4 +101,3 @@ El-Mahrosa.Teos-Sovereign-System/
 - **Unit Tests:** Run with `npm test` (Node) or `anchor test` (Rust).
 - **Code Style:** Enforced via **ESLint** (Node) and **Clippy** (Rust).
 - **Test Coverage:** Aim for **90%+ coverage**. See the badge in the main `README.md`.
-```
