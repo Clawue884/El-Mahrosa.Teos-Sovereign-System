@@ -102,5 +102,3 @@ El-Mahrosa.Teos-Sovereign-System/
 - **Code Style:** Enforced via **ESLint** (Node) and **Clippy** (Rust).
 - **Test Coverage:** Aim for **90%+ coverage**. See the badge in the main `README.md`.
 ```
-
----
