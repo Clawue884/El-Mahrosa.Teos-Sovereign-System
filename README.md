@@ -1,21 +1,44 @@
-# 🏛 El-Mahrosa Sovereign System — TEOS Egypt
+# El-Mahrosa Sovereign System — TEOS Egypt
 
-### Compliance-First · Audit-Ready · SDG-Aligned
+## Compliance-First · Audit-Ready · SDG-Aligned
 
-*Engineered in Egypt. Designed as a universal sovereign blockchain infrastructure, interoperable across public chains and regulated digital ecosystems.*
+Engineered in Egypt. Designed as a universal sovereign blockchain infrastructure, interoperable across public chains and regulated digital ecosystems.
+
+El-Mahrosa is TEOS Egypt’s unified civic-first infrastructure built with **Rust + Solana**, combining:
+- Education frontend (civic learning UX)
+- Anchor smart contracts (Solana programs)
+- API services (compliance + integrations)
+- SDK modules (Rust/TS clients and shared types)
 
 ---
 
-## 🚫 Sovereign Usage Policy
+## Table of Contents
+- [Sovereign Usage Policy](#sovereign-usage-policy)
+- [Live Integrity & Compliance Dashboard](#live-integrity--compliance-dashboard)
+- [Live TEOS Egypt & PiNet Demonstrations — 17 DApps](#live-teos-egypt--pinet-demonstrations--17-dapps)
+- [Strategic Pillars](#strategic-pillars)
+- [Unified Sovereign Architecture](#unified-sovereign-architecture)
+- [Core Components](#core-components)
+- [Development (Authorized Only)](#development-authorized-only)
+- [Security](#security)
+- [Founder & Sovereign Authority](#founder--sovereign-authority)
+- [License & Sovereign IP Enforcement](#license--sovereign-ip-enforcement)
+- [Legal Notice](#legal-notice)
+
+---
+
+## Sovereign Usage Policy
 
 **All TEOS Egypt and El-Mahrosa repositories are protected under sovereign rights.**  
 No individual, organization, institution, or government entity may **use, fork, deploy, integrate, modify, or reference** any repository or system component without **formal written authorization from the Founder**.
 
-Unauthorized usage is **strictly prohibited**, including commercial, financial, or governmental deployment.
+Unauthorized usage is strictly prohibited, including commercial, financial, or governmental deployment.
+
+Authorization requests: ayman@teosegypt.com
 
 ---
 
-## 📊 Live Integrity & Compliance Dashboard
+## Live Integrity & Compliance Dashboard
 
 | CI/CD Status | GitHub Issues | GitHub Stars | License | Security |
 |--------------|---------------|--------------|---------|----------|
@@ -23,12 +46,12 @@ Unauthorized usage is **strictly prohibited**, including commercial, financial, 
 
 ---
 
-## 🔗 Live TEOS Egypt & PiNet Demonstrations — 17 DApps
+## Live TEOS Egypt & PiNet Demonstrations — 17 DApps
 
-> Note: `.pinet.com` demos are designed for Pi Browser / web access (availability depends on Pi ecosystem routing).
+Note: `.pinet.com` demos are designed for Pi Browser / web access (availability depends on Pi ecosystem routing).
 
-| # | DApp Name | Purpose | GitHub Repo | ⭐ Stars | 🌐 PiNet Demo | 🎯 SDG Alignment |
-|---|-----------|---------|-------------|---------|---------------|-----------------|
+| # | DApp Name | Purpose | GitHub Repo | Stars | PiNet Demo | SDG Alignment |
+|---|-----------|---------|-------------|------:|------------|--------------|
 | 1 | TEOS Civic Mixer | Wallet analytics & civic token routing | [Repo](https://github.com/Elmahrosa/Teos-Civic-Mixer) | ![Stars](https://img.shields.io/github/stars/Elmahrosa/Teos-Civic-Mixer?style=social) | [Demo](https://teosegyptcivicmi5097.pinet.com) | SDG 10 |
 | 2 | ASK TEOS AI | AI chat gateway to sovereign chain | [Repo](https://github.com/Elmahrosa/Ask-Teos-AI) | ![Stars](https://img.shields.io/github/stars/Elmahrosa/Ask-Teos-AI?style=social) | [Demo](https://skteosaiebaefda4313.pinet.com) | SDG 16 |
 | 3 | MINE-TEOS | Civic mining & validator participation | [Repo](https://github.com/Elmahrosa/TEOS-MINER-TELEGRAM-BOT) | ![Stars](https://img.shields.io/github/stars/Elmahrosa/TEOS-MINER-TELEGRAM-BOT?style=social) | [Demo](https://mineteos6138.pinet.com) | SDG 8 |
@@ -49,19 +72,19 @@ Unauthorized usage is **strictly prohibited**, including commercial, financial, 
 
 ---
 
-## 🏛 Strategic Pillars
+## Strategic Pillars
 
-* **Digital Sovereignty Framework** — National DPI backbone, export-ready.  
-* **Compliance Engine** — Immutable governance and audit traceability.  
-* **SDG Alignment** — Verified long-term civic impact modules.  
-* **Treasury & Reserves** — Non-custodial, contract-governed civic funds.  
-* **NFT & Asset Registry** — On-chain ownership and tokenized sovereign rights.  
-* **Validator & Mining Layer** — Transparent, permissioned participation.  
-* **Interoperability Layer** — Connect with any chain without surrendering control.  
+- Digital Sovereignty Framework — National DPI backbone, export-ready.
+- Compliance Engine — Immutable governance and audit traceability.
+- SDG Alignment — Verified long-term civic impact modules.
+- Treasury & Reserves — Non-custodial, contract-governed civic funds.
+- NFT & Asset Registry — On-chain ownership and tokenized sovereign rights.
+- Validator & Mining Layer — Transparent, permissioned participation.
+- Interoperability Layer — Connect with any chain without surrendering control.
 
 ---
 
-## 📂 Unified Sovereign Architecture
+## Unified Sovereign Architecture
 
 El-Mahrosa.Teos-Sovereign-System/
 ├─ src/          # Core modules & SDG logic
@@ -72,29 +95,83 @@ El-Mahrosa.Teos-Sovereign-System/
 
 ---
 
-## 🔐 Security
+## Core Components
 
-Security posture is documented in: **[SECURITY.md](./SECURITY.md)**  
+### Education Frontend (Civic Learning)
+A civic-first UI layer intended to educate and guide end-users through:
+- governance participation and consent-based actions
+- civic transparency (receipts, timelines, public proofs)
+- SDG-mapped programs and cultural innovation modules
+
+### Anchor Smart Contracts (Solana)
+On-chain programs intended to support:
+- governance primitives (proposals, voting, execution, timelocks)
+- treasury/reserve controls (policy-guarded flows)
+- registries (assets, credentials, rights)
+- immutable logs for audit evidence (events/receipts)
+
+### API Services
+Off-chain services intended to provide:
+- compliance policy enforcement (where applicable)
+- indexing and read models (dashboards, analytics)
+- integration interfaces for regulated environments
+
+### SDK Modules
+Developer tooling intended to standardize:
+- typed clients for programs/services
+- schemas for governance + compliance receipts
+- interoperability adapters
+
+---
+
+## Development (Authorized Only)
+
+Suggested toolchain (adjust to your implementation):
+- Rust (stable)
+- Solana CLI
+- Anchor
+- Node.js (LTS) and a package manager
+
+Example commands (only if your repo implements these scripts):
+- Build/test contracts: `anchor build` / `anchor test`
+- Run services: `pnpm dev` (or equivalent)
+- Run frontend: `pnpm dev` (or equivalent)
+
+Configuration:
+- Store sensitive values in `config/` (not committed) and/or environment variables.
+- Use role-separated keys for deploy vs. admin vs. audit signing (where applicable).
+
+---
+
+## Security
+
+Security posture is documented in: [SECURITY.md](./SECURITY.md)  
 If you believe you’ve found a vulnerability, follow the responsible disclosure process described there.
 
 ---
 
-## 👤 Founder & Sovereign Authority
+## Founder & Sovereign Authority
 
-**Ayman Seif**  
+Ayman Seif  
 Founder & Chief Architect — TEOS Egypt
 
-- Email: [ayman@teosegypt.com](mailto:ayman@teosegypt.com)  
+- Email: ayman@teosegypt.com  
 - LinkedIn: https://linkedin.com/in/aymanseif  
-- Phone: +20 100 616 7293  
+- Phone: +20 100 616 7293
 
 ---
 
-## ⚠️ License & Sovereign IP Enforcement
+## License & Sovereign IP Enforcement
 
-This repository operates under a **dual-license sovereign model**:
+This repository operates under a dual-license sovereign model:
 
-1. **PolyForm Non-Commercial 1.0.0** — for civic research and non-profit evaluation only.  
-2. **TEOS Sovereign License (TESL)** — all commercial, institutional, and government rights are **fully reserved by the Founder**.
+1. PolyForm Non-Commercial 1.0.0 — for civic research and non-profit evaluation only.  
+2. TEOS Sovereign License (TESL) — all commercial, institutional, and government rights are fully reserved by the Founder.
 
-See: **[LICENSE](./LICENSE)**
+See: [LICENSE](./LICENSE)
+
+---
+
+## Legal Notice
+
+This README is an informational description of the El-Mahrosa Sovereign System. It is not legal advice. For enforceability, jurisdiction, and downstream distribution implications (e.g., Git hosting behaviors), consult qualified legal counsel and ensure your LICENSE/TERMS files reflect your intent precisely.
