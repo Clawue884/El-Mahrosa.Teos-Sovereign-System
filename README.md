@@ -1,84 +1,89 @@
 # 🏛 El-Mahrosa Sovereign System  
 ## **TEOS Egypt**  
-## 🌍 Vision & Sovereignty
+## 🌍 Global Civic Blockchain Infrastructure
 
-TEOS Egypt is engineered as **Egypt’s sovereign digital backbone**, aligned with **Egypt Vision 2030** and the **United Nations Sustainable Development Goals (SDGs)**.  
-Each module represents a **verifiable milestone** in building trusted civic Digital Public Infrastructure (DPI), designed for **banks, regulators, and governments** to adopt with confidence.
+**Engineered in Egypt — Built for Central Banks, Governments, and Global Institutions**  
+TEOS Egypt delivers a **sovereign, regulator-aligned blockchain backbone**, aligned with **UN SDGs** and designed for **trusted Digital Public Infrastructure (DPI)** adoption worldwide.  
 
-![Compliance](https://img.shields.io/badge/Compliance-Strict-blue)  ![Audit](https://img.shields.io/badge/Audit-Ready-green)  ![SDG](https://img.shields.io/badge/UN_SDG-Aligned-gold)  ![License](https://img.shields.io/badge/License-TESL_&_PolyForm-lightgrey)  
-![Security](https://img.shields.io/badge/Security-Audit_Ready-critical)![MultiChain](https://img.shields.io/badge/MultiChain-Interoperable-purple)
+![Compliance](https://img.shields.io/badge/Compliance-Strict-blue)  
+![Audit](https://img.shields.io/badge/Audit-Ready-green)  
+![SDG](https://img.shields.io/badge/UN_SDG-Aligned-gold)  
+![License](https://img.shields.io/badge/License-TESL_&_PolyForm-lightgrey)  
+![Security](https://img.shields.io/badge/Security-Audit_Ready-critical)  
+![MultiChain](https://img.shields.io/badge/MultiChain-Interoperable-purple)
 
 ---
 
 ## 🧱 Architecture & Core Modules
 
 ```
+
 El-Mahrosa.Teos-Sovereign-System/
 ├─ .github/        # CI/CD & audit pipelines
 ├─ assets/         # Sovereign UI assets & brand visuals
 ├─ bin/            # Executable CLI tools & scripts
-├─ configs/        # Sovereign deployment configs (ignored)
+├─ configs/        # Deployment configs (ignored)
 ├─ contracts/      # Smart contracts (Solana Anchor / Rust)
-├─ docs/           # Architecture, policies, API refs
+├─ docs/           # Architecture, policies, API references
 ├─ src/            # Governance logic & DPI modules
 ├─ tests/          # Compliance & integrity validation
 ├─ SECURITY.md     # Responsible disclosure policy
 └─ LICENSE         # Dual sovereign licensing
-```
+
+````
+
+---
 
 ## 🧠 Framework Overview
 
-**El-Mahrosa Sovereign System (TEOS Egypt)** is a **national-grade, chain-agnostic blockchain infrastructure framework** built to power:
+**El-Mahrosa Sovereign System (TEOS Egypt)** is a **national-grade, chain-agnostic blockchain infrastructure** built to power:
 
 - **Government-scale distributed systems**
-- **Regulated financial and institutional networks**
+- **Regulated financial & institutional networks**
 - **Digital Public Infrastructure (DPI) services**
 - **Sovereign smart contract execution layers**
 
-The system ensures **full digital sovereignty, immutable governance, regulatory compliance, and secure multi-chain interoperability**—without surrendering national authority, data ownership, or operational control.
+It ensures **full digital sovereignty, immutable governance, regulatory compliance, and secure multi-chain interoperability**, while keeping **data ownership, national authority, and operational control fully intact**.
 
 ---
 
 ## 🔑 Core Capabilities
 
-- **Civic-first DPI architecture**
-- **Sovereign Smart Contracts** (Solana Anchor / Rust core)
-- **Compliance & Audit APIs** for regulators and institutions
-- **Typed SDK Toolchain** (Rust & TypeScript) with shared governance schemas
-- **Cross-chain adapters** (EVM & non-EVM)
-- **Permissioned deployment model** controlled exclusively by the Founder
-- **Interoperability layers** supporting major global public chains
+- Civic-first Digital Public Infrastructure (DPI)  
+- Sovereign Smart Contracts (Solana Anchor / Rust)  
+- Compliance & Audit APIs for regulators and institutions  
+- Typed SDK Toolchain (Rust & TypeScript) with shared governance schemas  
+- Cross-chain adapters (EVM & non-EVM chains)  
+- Permissioned deployments controlled by founder  
+- Interoperability layers supporting all major public chains  
 
 ---
 
-## ⚠️ Demo Environment Disclosure
+## ⚠️ Demo Environment
 
 All public showcases run on **Pi Network (PiNet)** strictly for:
 
 - Secure demonstration
 - UX validation
 - Institutional review
-- Ecosystem prototyping
+- Prototype validation
 
-The core sovereign system remains **chain-agnostic and production-ready** for audited deployment on:
+The **core system is chain-agnostic** and production-ready for deployment on:
 
-- Solana
-- Ethereum
-- BNB Chain
-- Polygon
-- Bitcoin
-- Any EVM or non-EVM chain via certified bridges
+- Solana  
+- Ethereum  
+- BNB Chain  
+- Polygon  
+- Bitcoin  
+- Any EVM / non-EVM chain via certified bridges  
 
 ---
 
-## 🇪🇬 Engineering Origin & Global Scope
+## 🌐 Global Architecture
 
-**Engineered in Egypt. Built for global-scale trust and adoption.**
+**Engineered in Egypt — Deployed globally for institutional trust**
 
 ```mermaid
----
-title: "Engineered in Egypt → Global Sovereign Infrastructure"
----
 flowchart TD
     Citizens["Citizens & Institutions"] 
     Wallets["Sovereign Wallet Layer"]
@@ -104,61 +109,35 @@ flowchart TD
 
 | Document          | Description                                           |
 | ----------------- | ----------------------------------------------------- |
-| `README.md`       | Investor-grade system overview                        |
+| `README.md`       | Investor & institutional overview                     |
 | `README.DEV.md`   | Developer quick-start, SDK usage, API reference       |
 | `architecture.md` | System design, modules, and sovereign execution model |
-| `SECURITY.md`     | Responsible disclosure and security classification    |
+| `SECURITY.md`     | Responsible disclosure & security classification      |
 | `LICENSE`         | Dual sovereign licensing (PolyForm NC + TESL)         |
 
 ---
 
-## 🛡 DApp Classification Model
+## 🚀 PiNet Demo Suite — 17 DApps for Global Institutions
 
-| Status        | Description                           | Deployment Rights    |
-| ------------- | ------------------------------------- | -------------------- |
-| **Core**      | Security-critical sovereign modules   | Restricted           |
-| **Prototype** | Active R&D, non-public infrastructure | Authorized only      |
-| **Demo**      | Public showcase and UX validation     | No deployment rights |
-| **Concept**   | Design reference                      | No execution         |
-| **Archived**  | Legacy modules                        | Not maintained       |
-
----
-
-## 📊 Live Integrity & Compliance
-
-| Metric   | Status                                                                                                                                                 |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| CI/CD    | ![CI](https://img.shields.io/github/actions/workflow/status/Elmahrosa/El-Mahrosa.Teos-Sovereign-System/ci.yml?branch=main\&label=CI%2FCD\&logo=github) |
-| Issues   | ![Issues](https://img.shields.io/github/issues/Elmahrosa/El-Mahrosa.Teos-Sovereign-System)                                                             |
-| Stars    | ![Stars](https://img.shields.io/github/stars/Elmahrosa/El-Mahrosa.Teos-Sovereign-System?style=social)                                                  |
-| Security | ![Security](https://img.shields.io/badge/Security-Audit_Ready-orange)                                                                                  |
-| License  | ![License](https://img.shields.io/badge/License-PolyForm_NC_+_TESL-gold)                                                                               |
-
-🔗 **GitHub Sovereign Network:** `Elmahrosa` organization
-
----
-
-## 🚀 PiNet Demo Suite — 17 DApps
-
-|  # | DApp               | Purpose                          | GitHub                                        | ⭐                                                                                               | PiNet Demo     | SDG |
-| -: | ------------------ | -------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- | --- |
-|  1 | TEOS Civic Mixer   | Wallet analytics & token routing | `Teos-Civic-Mixer`                            | ![★](https://img.shields.io/github/stars/Elmahrosa/Teos-Civic-Mixer)                            | `civic-mixer`  | 10  |
-|  2 | ASK TEOS AI        | AI sovereign gateway             | `Ask-Teos-AI`                                 | ![★](https://img.shields.io/github/stars/Elmahrosa/Ask-Teos-AI)                                 | `ask-teos-ai`  | 16  |
-|  3 | MINE-TEOS          | Civic mining UX                  | `TEOS-MINER-TELEGRAM-BOT`                     | ![★](https://img.shields.io/github/stars/Elmahrosa/TEOS-MINER-TELEGRAM-BOT)                     | `mine-teos`    | 8   |
-|  4 | TEOS BankChain     | Regulated financial backbone     | `Teos-Bankchain`                              | ![★](https://img.shields.io/github/stars/Elmahrosa/Teos-Bankchain)                              | `bankchain`    | 9   |
-|  5 | TEOS Pi Taxi       | Mobility & Pi payments           | `TeosPiTaxi`                                  | ![★](https://img.shields.io/github/stars/Elmahrosa/TeosPiTaxi)                                  | `pi-taxi`      | 11  |
-|  6 | Civic Ledger       | Governance audit chain           | `International-Civic-Blockchain-Constitution` | ![★](https://img.shields.io/github/stars/Elmahrosa/International-Civic-Blockchain-Constitution) | `civic-ledger` | 16  |
-|  7 | TEOS Smart City    | DPI identity & payments          | `Teos-Pi-Smart-City`                          | ![★](https://img.shields.io/github/stars/Elmahrosa/Teos-Pi-Smart-City)                          | `smart-city`   | 11  |
-|  8 | Bank of Pi Egypt   | Regulated Pi banking UX          | `Teos-Bankchain-Mobile`                       | ![★](https://img.shields.io/github/stars/Elmahrosa/Teos-Bankchain-Mobile)                       | `bank-of-pi`   | 9   |
-|  9 | eMap of Pi         | Pi ecosystem intelligence        | `Elmahrosa-Map-of-PI`                         | ![★](https://img.shields.io/github/stars/Elmahrosa/Elmahrosa-Map-of-PI)                         | `map-of-pi`    | 9   |
-| 10 | TEOS Wallet        | Sovereign non-custodial wallet   | `TeosWallet`                                  | ![★](https://img.shields.io/github/stars/Elmahrosa/TeosWallet)                                  | `teos-wallet`  | 10  |
-| 11 | Nilex DEX          | Civic liquidity & swaps          | `Nilex`                                       | ![★](https://img.shields.io/github/stars/Elmahrosa/Nilex)                                       | `nilex`        | 8   |
-| 12 | TEOS Pump          | Cultural token launchpad         | `TeosPump`                                    | ![★](https://img.shields.io/github/stars/Elmahrosa/TeosPump)                                    | `teos-pump`    | 11  |
-| 13 | TGR Gold Reserve   | Gold-backed civic token          | `Teos-Gold-Reserve`                           | ![★](https://img.shields.io/github/stars/Elmahrosa/Teos-Gold-Reserve)                           | `tgr`          | 12  |
-| 14 | Elmahrosa Mining   | Validator transparency           | `Elmahrosa-Mining-App`                        | ![★](https://img.shields.io/github/stars/Elmahrosa/Elmahrosa-Mining-App)                        | `mining`       | 8   |
-| 15 | FPBE Pi Misr Bank  | National Pi compliance layer     | `FPBE-First-Pimisr-Bank-Elmahrosa`            | ![★](https://img.shields.io/github/stars/Elmahrosa/FPBE-First-Pimisr-Bank-Elmahrosa)            | `pi-misr-bank` | 9   |
-| 16 | TEOS NFT Generator | Pi NFT minting + AI assets       | `TEOS-NFT-AI-Generator`                       | ![★](https://img.shields.io/github/stars/Elmahrosa/TEOS-NFT-AI-Generator)                       | `teos-nft`     | 9   |
-| 17 | Civic Gaza         | Identity & reconstruction        | `Digital-Reconstruction-of-Gaza`              | ![★](https://img.shields.io/github/stars/Elmahrosa/Digital-Reconstruction-of-Gaza)              | `civic-gaza`   | 16  |
+| #  | DApp               | Purpose / Institutional Use Case                                        | GitHub Repository                                                                                                       | PiNet Demo URL                                 | SDG   | Global Use Case Scenarios                                                                                                     |
+| -- | ------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1  | TEOS Civic Mixer   | Citizen & institutional wallet analytics, petition-first onboarding     | [Teos-Civic-Mixer](https://github.com/Elmahrosa/Teos-Civic-Mixer)                                                       | [Demo](https://teosegyptcivicmi5097.pinet.com) | 10    | Central banks: wallet analytics; Governments: citizen adoption tracking; Enterprises: employee token engagement               |
+| 2  | ASK TEOS AI        | AI-powered sovereign query gateway for civic and regulatory guidance    | [Ask-Teos-AI](https://github.com/Elmahrosa/Ask-Teos-AI)                                                                 | [Demo](https://askteosaiebaefda4313.pinet.com) | 4,16  | Central banks: compliance queries; Governments: policy guidance; Enterprises: risk management                                 |
+| 3  | MINE-TEOS          | Tokenized mining for civic engagement & institutional reward simulation | [TEOS-MINER-TELEGRAM-BOT](https://github.com/Elmahrosa/TEOS-MINER-TELEGRAM-BOT)                                         | [Demo](https://mineteos6138.pinet.com)         | 7,8   | Central banks: token incentive pilots; Governments: citizen engagement; Enterprises: loyalty programs                         |
+| 4  | TEOS BankChain     | **Regulated financial backbone connecting banks to sovereign chain**    | [Teos-Bankchain](https://github.com/Elmahrosa/Teos-Bankchain)                                                           | [Demo](https://teosbankchain6441.pinet.com)    | 8,9   | Central banks: real-time settlements; Governments: treasury management; Enterprises: cross-border payments                    |
+| 5  | TEOS Pi Taxi       | Mobility & civic payments, smart transport tracking for cities          | [TeosPiTaxi](https://github.com/Elmahrosa/TeosPiTaxi)                                                                   | [Demo](https://teospitaxi9031.pinet.com)       | 11,13 | Municipalities: mobility payments; Governments: public transport audits; Enterprises: fleet tracking & rewards                |
+| 6  | Civic Ledger       | Governance and audit trail for DPI modules                              | [International-Civic-Blockchain-Constitution](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution) | [Demo](https://elmahrosacivicle7309.pinet.com) | 16    | Governments: civic policy traceability; Central banks: regulatory audits; Enterprises: internal compliance                    |
+| 7  | TEOS Smart City    | City-scale IoT & DPI identity, urban resource management                | [Teos-Pi-Smart-City](https://github.com/Elmahrosa/Teos-Pi-Smart-City)                                                   | [Demo](https://teospismartcitye8281.pinet.com) | 11,13 | Governments: city planning; Central banks: resource allocation; Enterprises: utility monitoring                               |
+| 8  | Bank of Pi Egypt   | Centralized Pi-based banking UX for government pilots                   | [Teos-Bankchain-Mobile](https://github.com/Elmahrosa/Teos-Bankchain-Mobile)                                             | [Demo](https://bankofpiefbfbdad3490.pinet.com) | 8,17  | Central banks: national pilots; Governments: public banking services; Enterprises: payroll integration                        |
+| 9  | eMap of Pi         | Geospatial mapping & Pi ecosystem intelligence for urban planning       | [Elmahrosa-Map-of-PI](https://github.com/Elmahrosa/Elmahrosa-Map-of-PI)                                                 | [Demo](https://emapofpi6390.pinet.com)         | 11,17 | Governments: planning & zoning; Central banks: branch mapping; Enterprises: logistics optimization                            |
+| 10 | TEOS Wallet        | Sovereign non-custodial wallet with multi-chain governance              | [TeosWallet](https://github.com/Elmahrosa/TeosWallet)                                                                   | [Demo](https://teoswallet6613.pinet.com)       | 9,10  | Central banks: pilot wallets; Governments: identity-linked accounts; Enterprises: multi-chain treasury management             |
+| 11 | Nilex DEX          | Civic liquidity & decentralized swaps for institutional assets          | [Nilex](https://github.com/Elmahrosa/Nilex)                                                                             | [Demo](https://niledex7283.pinet.com)          | 8,10  | Central banks: bond trading pilots; Governments: tokenized securities; Enterprises: corporate treasury swaps                  |
+| 12 | TEOS Pump          | Token launchpad for cultural, institutional, or civic tokens            | [TeosPump](https://github.com/Elmahrosa/TeosPump)                                                                       | [Demo](https://teospumpeabbdc3939.pinet.com)   | 8,9   | Governments: national token programs; Central banks: pilot CBDCs; Enterprises: internal reward tokens                         |
+| 13 | TGR Gold Reserve   | Gold-backed sovereign token for asset-backed value                      | [Teos-Gold-Reserve](https://github.com/Elmahrosa/Teos-Gold-Reserve)                                                     | [Demo](https://tgrbbbbab6988.pinet.com)        | 8,12  | Central banks: gold-backed CBDCs; Governments: sovereign reserves; Enterprises: corporate treasury assets                     |
+| 14 | Elmahrosa Mining   | Validator transparency & mining dashboards                              | [Elmahrosa-Mining-App](https://github.com/Elmahrosa/Elmahrosa-Mining-App)                                               | [Demo](https://elmahrosamininga1462.pinet.com) | 7,8   | Central banks: validator oversight; Governments: audit transparency; Enterprises: mining pools                                |
+| 15 | FPBE Pi Misr Bank  | Sovereign Pi compliance layer for institutional pilots                  | [FPBE-First-Pimisr-Bank-Elmahrosa](https://github.com/Elmahrosa/FPBE-First-Pimisr-Bank-Elmahrosa)                       | [Demo](https://firstpimisrbanke1502.pinet.com) | 8,9   | Central banks: compliance validation; Governments: pilot banking regulation; Enterprises: regulated token issuance            |
+| 16 | TEOS NFT Generator | NFT & AI minting platform for cultural asset preservation               | [TEOS-NFT-AI-Generator](https://github.com/Elmahrosa/TEOS-NFT-AI-Generator)                                             | [Demo](https://teosnft9637.pinet.com)          | 4,8   | Governments: cultural preservation; Central banks: tokenized assets; Enterprises: branded NFT assets                          |
+| 17 | Civic Gaza         | Digital reconstruction & identity system for conflict recovery          | [Digital-Reconstruction-of-Gaza](https://github.com/Elmahrosa/Digital-Reconstruction-of-Gaza)                           | [Demo](https://elmahrosacivicga5835.pinet.com) | 11,16 | Governments: post-conflict reconstruction; Central banks: humanitarian aid management; Enterprises: infrastructure rebuilding |
 
 ---
 
@@ -172,19 +151,20 @@ flowchart TD
 
 ## 🛡 Security & Disclosure
 
-For responsible vulnerability reporting and module classification, see `SECURITY.md`.
+Responsible disclosure and module classification are defined in `SECURITY.md`.
+All modules are **audit-ready** and **regulator-compliant**.
 
 ---
 
-## 👤 Founder & Authority
+## 👤 Founder & Global Authority
 
 **Ayman Seif**
 Founder & Chief Architect — *El-Mahrosa International*
 
-* 📧 `ayman@teosegypt.com`
-* 📞 `+20 100 616 7293`
-* GitHub: `Elmahrosa` organization
-* LinkedIn: `Ayman Seif`
+* 📧 [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
+* 📞 +20 100 616 7293
+* GitHub: [Elmahrosa](https://github.com/Elmahrosa)
+* LinkedIn: [Ayman Seif](https://linkedin.com/in/aymanseif)
 
 ---
 
@@ -195,11 +175,11 @@ Founder & Chief Architect — *El-Mahrosa International*
 1. **PolyForm Non-Commercial (NC)** → Research & education only
 2. **TEOS Sovereign License (TESL)** → Mandatory for commercial, institutional, or government deployment
 
-⚠️ Unauthorized usage is **legally enforceable under sovereign intellectual property protection**.
+⚠️ Unauthorized usage is **legally enforceable under sovereign IP protection**.
 
 ---
 
-**Built with pride in Egypt 🇪🇬 — designed for global trust, civic impact, and sovereign resilience.**
+**Built with pride in Egypt 🇪🇬 — designed for global trust, institutional adoption, and sovereign resilience.**
 
 ```
 
