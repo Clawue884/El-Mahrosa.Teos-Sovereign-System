@@ -1,218 +1,95 @@
-# **Sovereign Blockchain Infrastructure for TEOS Egypt**
+# 🏛 El‑Mahrosa Sovereign System — TEOS Egypt
 
-Compliance-first, audit-ready, aligned with UN SDGs and Egypt’s Vision 2030.
-
----
-
-## 🟢 Live Badge Dashboard
-
-| Badge                   | Status                                                                                                                           |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **CI/CD**               | ![CI](https://github.com/Elmahrosa/El-Mahrosa.Teos-Sovereign-System/actions/workflows/ci.yml/badge.svg)                          |
-| **License**             | ![License: PolyForm NC + TESL](https://img.shields.io/badge/License-PolyFormNC%20%2B%20TESL-gold)                                |
-| **Audit Status**        | ![Audit Status](https://img.shields.io/badge/Audit-Passing-brightgreen)                                                          |
-| **Coverage**            | ![Coverage](https://img.shields.io/badge/Coverage-90%25-blue)                                                                    |
-| **Open Issues**         | ![Issues](https://img.shields.io/github/issues/Elmahrosa/El-Mahrosa.Teos-Sovereign-System)                                       |
-| **Presale Portal**      | [![Presale Portal](https://img.shields.io/badge/Presale-teospump--presale.vercel.app-blue)](https://teospump-presale.vercel.app) |
-| **Holder Verification** | [![Holder Verification](https://img.shields.io/badge/Solscan-TEOS%20Holders-brightgreen)](https://solscan.io/)                   |
-| **Pi Network Map**      | [![Pi Ecosystem](https://img.shields.io/badge/Map-of%20Pi-lightgrey)](https://emapofpi6390.pinet.com)                            |
-| **Bank Portal**         | [![BankChain](https://img.shields.io/badge/Bank-Portal-teal)](https://bank.teosegypt.com)                                        |
-| **NFT Platform**        | [![NFT Platform](https://img.shields.io/badge/TEOS-NFT-purple)](https://teosnft9637.pinet.com)                                   |
-| **Smart City Portal**   | [![Smart City](https://img.shields.io/badge/Smart%20City-Portal-orange)](https://teospismartcitye8281.pinet.com)                 |
-| **Mining Demo**         | [![Mining Portal](https://img.shields.io/badge/Mining-Demo-red)](https://elmahrosamininga1462.pinet.com)                         |
-| **GitHub Org**          | [![GitHub](https://img.shields.io/badge/Repos-Elmahrosa%20Org-blue)](https://github.com/Elmahrosa)                               |
+### **Institutional Blockchain Infrastructure for National Sovereignty**  
+**Immutable. Compliance‑Driven. SDG‑Aligned.**  
+*Engineered in Egypt for the global stage. Designed for the intersection of sovereign governance and decentralized efficiency.*
 
 ---
 
-## ⚖️ License
+## 📊 Performance & Integrity Dashboard
 
-* **Legal:** PolyForm Noncommercial 1.0.0
-* **Sovereign Policy:** TEOS Egypt Sovereign License (TESL)
-
-⚠️ Commercial/government use requires written permission from **Ayman Seif / Elmahrosa International**.
-
----
-
-## 📌 Table of Contents
-
-1. [Overview](#-overview)
-2. [Repository Structure](#-repository-structure)
-3. [Features](#-features)
-4. [Tech Stack](#-tech-stack)
-5. [Getting Started](#-getting-started)
-6. [Architecture](#-architecture)
-7. [Ecosystem & PI Demo Links](#-ecosystem--pi-demo-links)
-8. [Contributing](#-contributing)
-9. [Security Policy](#-security-policy)
-10. [License](#-license)
-11. [Contact & Founder](#-contact--founder)
+| CI/CD Pipeline | Regulatory License | Test Coverage | Security Issues | Ecosystem Access |
+| --- | --- | --- | --- | --- |
+| [![CI](https://github.com/Elmahrosa/El-Mahrosa.Teos-Sovereign-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Elmahrosa/El-Mahrosa.Teos-Sovereign-System/actions/workflows/ci.yml) | [![License: PolyForm NC + TESL](https://img.shields.io/badge/License-PolyFormNC%20%2B%20TESL-gold)](#) | [![Coverage](https://img.shields.io/badge/Coverage-90%25-blue)](#) | [![Issues](https://img.shields.io/github/issues/Elmahrosa/El-Mahrosa.Teos-Sovereign-System)](https://github.com/Elmahrosa/El-Mahrosa.Teos-Sovereign-System/issues) | [Presale Portal](https://teospump-presale.vercel.app) |
 
 ---
 
-## 🏛 Overview
+## 🔗 Live TEOS Ecosystem Portals
 
-El-Mahrosa.Teos-Sovereign-System is the **sovereign backbone of TEOS Egypt**, enforcing governance, compliance, and civic-first infrastructure.
-It provides modules for treasury, SDG mapping, and compliance automation, with **audit transparency** baked in.
-
----
-
-## 📁 Repository Structure
-
-```text
-El-Mahrosa.Teos-Sovereign-System/
-├─ README.md                    # Investor-facing overview with live demos
-├─ README.DEV.md                # Developer quickstart and docs
-├─ LICENSE                      # Dual-license: PolyForm NC + TESL
-├─ CODE_OF_CONDUCT.md           # Civic-aligned code of conduct
-├─ CONTRIBUTING.md              # Verified contributor guidelines
-├─ SECURITY.md                  # Vulnerability disclosure
-├─ .gitignore                   # Hygiene & secrets
-├─ .env                         # Local environment (ignored)
-├─ package.json                 # Node manifest
-├─ config/
-│  ├─ example.settings.yml      # Copyable example config
-│  └─ settings.yml              # Operational config (gitignored)
-├─ src/
-│  ├─ sovereignCore.js          # Entry point with module mounting
-│  ├─ modules/
-│  │  ├─ compliance.js          # Compliance middleware
-│  │  ├─ treasury.js            # Treasury endpoints
-│  │  └─ sdgMapping.js          # SDG registry utilities
-│  └─ utils/
-│     └─ auditLogger.js         # File-based audit logging
-├─ logs/
-│  └─ audit.log                 # Generated runtime log
-├─ tests/
-│  ├─ compliance.test.js
-│  ├─ treasury.test.js
-│  └─ sdg.test.js
-├─ docs/
-│  ├─ architecture.md
-│  └─ whitepaper.md
-└─ .github/
-   └─ workflows/
-      └─ ci.yml
-```
+| Module | Purpose | Live Access |
+| --- | --- | --- |
+| **Presale & Liquidity** | Institutional Genesis & Treasury Funding | [Launch Portal](https://teospump-presale.vercel.app) |
+| **Sovereign Treasury** | Non-Custodial Reserve Management | [Bank Portal](https://bank.teosegypt.com) |
+| **Smart City Hub** | Civic Governance & Digital Identity | [Smart City App](https://teospismartcitye8281.pinet.com) |
+| **NFT Registry** | Sovereign Asset Tokenization | [TEOS NFT Platform](https://teosnft9637.pinet.com) |
+| **Mobility dApp** | Decentralized Transit (Pi Taxi) | [Pi Taxi dApp](https://teospitaxi.teosegypt.com) |
+| **Mining Demo** | Validator Integrity & Network Metrics | [Mining Portal](https://elmahrosamininga1462.pinet.com) |
+| **Global Pi Map** | Geographic Ecosystem Intelligence | [Interactive Map](https://emapofpi6390.pinet.com) |
 
 ---
 
-## ✨ Features
+## 🏛 Strategic Pillars
 
-* **Compliance enforcement:** DCO, immutable releases, governance labeling
-* **SDG alignment:** Map modules to UN SDGs for civic transparency
-* **Treasury module:** Non-custodial staking and reserves management
-* **Audit layer:** Logs, dashboards, verification workflows
-* **Modular:** Easily extensible for civic, banking, and NFT components
+The **El‑Mahrosa Sovereign System** serves as the modular backbone for TEOS Egypt, delivering:
 
----
-
-## ⚙ Tech Stack
-
-* **Backend:** Node.js (Express) or Rust/Solana for smart contracts
-* **APIs:** GitHub REST + GraphQL integration
-* **Automation:** GitHub App webhooks & CI/CD
-* **Testing:** Jest/Mocha for Node; Anchor tests for Solana contracts
+* **Sovereign Treasury:** High-security reserve management via Rust/Solana smart contracts.  
+* **Compliance Automation:** Immutable release workflows and governance labels for audit-ready transparency.  
+* **SDG Integration:** Native modules mapped directly to **UN Sustainable Development Goals**.  
+* **Verified Ownership:** Founder Treasury Wallet: `Akvm3CbDN448fyD8qmQjowgBGpcYZtjuKFL4xT8PZhbF`  
 
 ---
 
-## 🚀 Getting Started
+## 🗺️ ASAP Roadmap (Accelerated)
 
-1. **Clone the repo**
+### **Phase 1: Immediate Foundation & Pi Integration (0–2 Weeks)**
 
-```bash
-git clone https://github.com/Elmahrosa/El-Mahrosa.Teos-Sovereign-System.git
-cd El-Mahrosa.Teos-Sovereign-System
-```
+* Complete `sovereignCore.js` & Rust/Solana modules.  
+* Deploy Pi Taxi, NFT Platform, Bank Portal, and Mining Demo prototypes.  
+* Execute TEOS-Pump presale to seed treasury reserves.
 
-2. **Copy config**
+### **Phase 2: Rapid Institutional Scaling (2–4 Weeks)**
 
-```bash
-cp config/example.settings.yml config/settings.yml
-```
+* Launch high-performance validator nodes for early institutional partners.  
+* Deploy multi-sig governance & on-chain regulator dashboards.  
+* Integrate audit layer with live transparency for all contributors.
 
-3. **Install dependencies**
+### **Phase 3: National & Cross-Border Rollout (4–8 Weeks)**
 
-```bash
-npm install
-```
+* Pilot digital ID & unified civic payment systems for smart city integration.  
+* Conduct cross-border settlement trials via TEOS BankChain.  
+* Distribute Sovereign SDK for turnkey international deployments.  
 
-4. **Run tests**
-
-```bash
-npm test
-```
-
-5. **Start (Node)**
-
-```bash
-node src/sovereignCore.js
-```
+> ⚡ *This ASAP roadmap is designed for maximum velocity while maintaining full compliance and audit readiness.*
 
 ---
 
-## 📊 Architecture
+## ⚙️ Engineering Stack
 
-```mermaid
-flowchart TD
-    A[Sovereign Core] --> B[Compliance Module]
-    A --> C[Treasury Module]
-    A --> D[SDG Mapping Module]
-    B --> E[Audit Logger]
-    C --> E[Audit Logger]
-    D --> E[Audit Logger]
-    E --> F[Dashboard & Reports]
-```
+* **Core Logic:** Node.js (Express)  
+* **Smart Contracts:** Rust (Solana Anchor)  
+* **Quality Assurance:** ESLint, Clippy, Jest (≥90% Coverage)  
+* **Cloud Infrastructure:** GitHub Actions + Vercel Edge  
 
 ---
 
-## 🔗 Ecosystem & PI Demo Links
+## 📜 Licensing & Intellectual Property
 
-All links dynamically integrated for live investor demo access:
+* **PolyForm Noncommercial 1.0.0:** Civic, research, and educational use only.  
+* **TESL (TEOS Sovereign License):** All commercial, government, and institutional rights **strictly reserved**.  
 
-| Component               | Type            | Access / Demo                                                      |
-| ----------------------- | --------------- | ------------------------------------------------------------------ |
-| Developer Docs          | Repo            | [README.DEV.md](README.DEV.md)                                     |
-| Presale Portal          | Web App         | [teospump-presale.vercel.app](https://teospump-presale.vercel.app) |
-| Holder Verification     | Integration     | [Solscan snapshot](https://solscan.io/)                            |
-| Founder Treasury Wallet | Wallet          | `Akvm3CbDN448fyD8qmQjowgBGpcYZtjuKFL4xT8PZhbF`                     |
-| Pi Network Map          | Interactive Map | [Map of Pi](https://emapofpi6390.pinet.com)                        |
-| Core Repos              | GitHub          | [Elmahrosa Org](https://github.com/Elmahrosa)                      |
-| NFT Platform            | dApp            | [TEOS NFT](https://teosnft9637.pinet.com)                          |
-| Bank Portal             | dApp            | [TEOS BankChain](https://bank.teosegypt.com)                       |
-| Smart City              | Portal          | [Smart City App](https://teospismartcitye8281.pinet.com)           |
-| Mining Demo             | Portal          | [Mining Demo](https://elmahrosamininga1462.pinet.com)              |
+⚠️ **No unauthorized usage permitted. Commercial deployment requires express written authorization from Ayman Seif / Elmahrosa International.**  
+
+[License Details: PolyForm NC](https://polyformproject.org/licenses/noncommercial/1.0.0/) | [TESL Overview](#)
 
 ---
 
-## 🤝 Contributing
+## 👤 Executive Leadership
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for verified contributor policy, code quality requirements, and licensing terms.
+**Ayman Seif** — *Founder & Chief Architect*  
+* ✉️ [ayman@teosegypt.com](mailto:ayman@teosegypt.com)  
+* 🌐 [linkedin.com/in/aymanseif](https://www.linkedin.com/in/aymanseif)  
+* 📞 +20 100 616 7293  
 
----
+> **Canonical Blueprint:** This document represents the **final, immutable version** of the TEOS Egypt sovereign architecture. Unauthorized edits, forks, or cloning without written permission are prohibited.
 
-## 🛡 Security Policy
-
-Report issues privately as described in [SECURITY.md](SECURITY.md). Do not open public issues for vulnerabilities.
-
----
-
-## 📜 License
-
-Dual-license governance:
-
-* **PolyForm Noncommercial 1.0.0** — civic & research use
-* **TESL (TEOS Egypt Sovereign License)** — commercial rights reserved for the Founder
-
-⚠️ Written permission required from **Ayman Seif / Elmahrosa International** for commercial or government use.
-
----
-
-## 👤 Contact & Founder
-
-* **Founder:** Ayman Seif
-* **Email:** [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
-* **LinkedIn:** [linkedin.com/in/aymanseif](https://www.linkedin.com/in/aymanseif)
-* **Phone:** `+20 100 616 7293`
-
----
 
